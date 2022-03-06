@@ -5,6 +5,7 @@
     A RegEx, or Regular Expression, is a sequence of characters that forms a search pattern.
     RegEx can be used to check if a string contains the specified search pattern.
 2. [Sorting Methods](https://github.com/AnureetKaurTiwana/Business-Analytics_Python_Assignments/blob/main/BubbleSort-HeapSort-SelectionSort-QuickSort.py)
+    
     a) Insertion Sort
     b) Bubble Sort
     c) QuickSort
