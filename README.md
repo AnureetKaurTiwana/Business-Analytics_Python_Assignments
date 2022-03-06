@@ -1,7 +1,18 @@
 # Business-Analytics_Python_Assignments
 # Table of Contents:
 1. [Loops](https://github.com/AnureetKaurTiwana/Business-Analytics_Python_Assignments/blob/main/Python_Assignment1.ipynb)
-2. [RegEx Assignment](https://github.com/AnureetKaurTiwana/Business-Analytics_Python_Assignments/blob/main/Assigment17-RegEx.py)
+2. [Programs](https://github.com/AnureetKaurTiwana/Business-Analytics_Python_Assignments/blob/main/Python_Assignment_2.ipynb)
+   
+   nth Fibonacci number
+   
+   Check if given numb is the fibonacci number
+   
+   program to print ascii value of a character
+   
+   sum of squares of first n natural numbers & largest element in array
+   
+   Largest number using insertion Sort
+4. [RegEx Assignment](https://github.com/AnureetKaurTiwana/Business-Analytics_Python_Assignments/blob/main/Assigment17-RegEx.py)
 
     A RegEx, or Regular Expression, is a sequence of characters that forms a search pattern.
     RegEx can be used to check if a string contains the specified search pattern.
