@@ -1,10 +1,11 @@
 # Business-Analytics_Python_Assignments
 # Table of Contents:
-1. [RegEx Assignment](https://github.com/AnureetKaurTiwana/Business-Analytics_Python_Assignments/blob/main/Assigment17-RegEx.py)
+1. [Loops](https://github.com/AnureetKaurTiwana/Business-Analytics_Python_Assignments/blob/main/Python_Assignment1.ipynb)
+2. [RegEx Assignment](https://github.com/AnureetKaurTiwana/Business-Analytics_Python_Assignments/blob/main/Assigment17-RegEx.py)
 
     A RegEx, or Regular Expression, is a sequence of characters that forms a search pattern.
     RegEx can be used to check if a string contains the specified search pattern.
-2. [Sorting Methods](https://github.com/AnureetKaurTiwana/Business-Analytics_Python_Assignments/blob/main/BubbleSort-HeapSort-SelectionSort-QuickSort.py)
+3. [Sorting Methods](https://github.com/AnureetKaurTiwana/Business-Analytics_Python_Assignments/blob/main/BubbleSort-HeapSort-SelectionSort-QuickSort.py)
     
     a) Insertion Sort
     
